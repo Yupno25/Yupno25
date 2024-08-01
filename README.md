@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yupno25
 - 👀 I’m interested in Minecraft mods.
-- 🌱 I’m currently learning how to program (Minecraft mods).
+- 🌱 I’m currently learning how to program (minecraft mods).
 
 <!---
 Yupno25/Yupno25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
